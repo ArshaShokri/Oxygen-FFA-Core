@@ -1,0 +1,5 @@
+name: FFACore
+version: '${version}'
+main: ir.oxygendevelopment.ffacore.FFACore
+authors: [ArshaShokri, Mehran1022]
+description: A Public FFA Core Created For Oxygen Network But Published
